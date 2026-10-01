@@ -49,7 +49,7 @@ Os episódios estão no Spotify e no site da rádio: [Rádio C IFSC Chapecó](ht
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
